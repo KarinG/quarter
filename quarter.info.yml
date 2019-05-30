@@ -1,13 +1,13 @@
-name: Bootstrap Barrio Subtheme
+name: Quarter
 type: theme
-description: 'Basic structure for a Bootstrap Barrio SubTheme.'
+description: 'A Bootstrap Barrio SubTheme.'
 # version: VERSION
 # core: 8.x
 base theme: bootstrap_barrio
 
 libraries:
-  - bootstrap_barrio_subtheme/bootstrap_cdn
-  - bootstrap_barrio_subtheme/global-styling
+  - quarter/bootstrap_cdn
+  - quarter/global-styling
 
 regions:
   top_header: 'Top Header'
