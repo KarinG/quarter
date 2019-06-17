@@ -3,3 +3,6 @@
  * Subtheme specific CSS.
  */
 
+.view-id-jumbotron img {
+  width: 100%;
+}
