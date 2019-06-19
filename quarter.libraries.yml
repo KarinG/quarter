@@ -4,8 +4,9 @@ global-styling:
     js/global.js: {}
   css:
     component:
-      css/style.css: {}
+      css/quarter.css: {}
       css/colors.css: {}
+      css/style.css: {}
 bootstrap:
   js:
     /libraries/popper/popper.min.js: {}

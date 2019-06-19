@@ -7,3 +7,11 @@
   width: 100%;
   height: auto;
 }
+
+legend {
+  font-size: 1rem;
+}
+
+.sidebar .block {
+  border-color: #fff !important;
+}
