@@ -4,12 +4,16 @@
  */
 
 #block-views-block-jumbotron-block-1, #block-views-block-jumbotron-block-1 .views-row {
-    width: 100%;
+  width: 100%;
 }
 
 .view-id-jumbotron img {
   width: 100%;
   height: auto;
+}
+
+#block-views-block-jumbotron-block-1 .view-content {
+  margin-right: 0px;
 }
 
 legend {
