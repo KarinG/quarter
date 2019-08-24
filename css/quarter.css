@@ -3,6 +3,10 @@
  * Subtheme specific CSS.
  */
 
+#block-views-block-jumbotron-block-1, #block-views-block-jumbotron-block-1 .views-row {
+    width: 100%;
+}
+
 .view-id-jumbotron img {
   width: 100%;
   height: auto;
