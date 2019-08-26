@@ -3,6 +3,12 @@
  * Subtheme specific CSS.
  */
 
+/* menu styles */
+.dropdown-item.active,
+.dropdown-item:active {
+  background-color: #ddd;
+}
+
 #block-views-block-jumbotron-block-1, #block-views-block-jumbotron-block-1 .views-row {
   width: 100%;
 }
