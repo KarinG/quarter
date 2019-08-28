@@ -29,3 +29,7 @@ legend {
 .sidebar .block {
   border-color: #fff !important;
 }
+
+.site-footer .container-fluid {
+    margin-left: 30px;
+}
