@@ -33,3 +33,7 @@ legend {
 .site-footer .container-fluid {
     margin-left: 30px;
 }
+
+.item-list ul li {
+    list-style-type: disc;
+}
