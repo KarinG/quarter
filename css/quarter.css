@@ -3,6 +3,11 @@
  * Subtheme specific CSS.
  */
 
+/* shoreditch resets */
+html body:not(.toolbar) {
+    margin-top: 0px !important;
+}
+
 /* menu styles */
 .dropdown-item.active,
 .dropdown-item:active {
